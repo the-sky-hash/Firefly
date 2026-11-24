@@ -37,3 +37,6 @@ Firefly-docs/
 cache/
 package/
 .obsidian/
+
+# 个人文件夹，不推送到远程仓库
+owns/
